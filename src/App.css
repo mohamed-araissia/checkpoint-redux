@@ -1,0 +1,14 @@
+.counter{
+display: block;
+text-align: center;
+border: 1px solid;
+background-color: bisque;
+font-size:xx-large;
+}
+.buttons{
+  display: flex;
+  justify-content: space-evenly;
+}
+span{
+  font-size: larger;
+}
